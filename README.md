@@ -1,2 +1,3 @@
-# quantami
-GitHub Profile.
+# Quantami
+
+Are we on GitHub, yet?
